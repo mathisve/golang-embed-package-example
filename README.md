@@ -1,2 +1,4 @@
 # golang-embed-package-example
-Short example of how to use the embed package in Golang
+Short examples of how to use the embed package in Golang
+
+Find the video [here](https://youtu.be/mBNIZHHi5Rg)!
